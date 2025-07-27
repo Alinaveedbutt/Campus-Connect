@@ -1,1 +1,2 @@
 # Campus-Connect
+This is a C++ console project I made to manage students, faculty, and visitors using object oriented programming. It lets me add different types of people, display their info using virtual functions, and save all the data to a file. I used base-class pointers to store the objects dynamically, which helped me practice polymorphism and file handling. The program runs through a menu, and I can easily add entries, view everything, or save it all to a text file when needed.
